@@ -1,0 +1,3 @@
+Para el obligatorio:
+Para el punto --- Diagrama de casos de uso
+Hay que armar el diagrama genérico con todos los casos de uso y sus actores y después elegir 1 caso de uso para armar la planilla del caso de uso en detalle.
